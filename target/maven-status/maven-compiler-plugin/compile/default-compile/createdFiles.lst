@@ -1,0 +1,12 @@
+com/cisc181/eNums/eMajor.class
+com/cisc181/core/Person.class
+com/cisc181/eNums/eTitle.class
+com/cisc181/core/Employee.class
+com/cisc181/core/Faculty.class
+com/cisc181/exceptions/PersonException.class
+com/cisc181/core/Semester.class
+com/cisc181/core/Student.class
+com/cisc181/core/Course.class
+com/cisc181/core/Section.class
+com/cisc181/core/Staff.class
+com/cisc181/core/Enrollment.class
